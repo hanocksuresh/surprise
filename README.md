@@ -4,9 +4,6 @@ A sweet, heartfelt birthday website built using **Next.js + Framer Motion** — 
 
 ---
 
-> ⚠️ This is a **free version**, so some features like background music, animations and balloon screen, final surprise screen are not included. Premium version includes full features, music, animations & everything with guide & support.
-> You can **buy the premium code** from my store [here](https://www.anujbuilds.in/products/birthday-v3).
----
 
 ## 🛠 Tech Stack
 
