@@ -21,7 +21,7 @@ To run this project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Anuj579/birthday-v3.git
+git clone https://github.com/hanocksuresh/surprise.git
 
 # Navigate into the folder
 cd birthday-v3
